@@ -1,0 +1,25 @@
+{
+   "data": [
+      { "name": "Crime" },
+      { "name": "Drama" },
+      { "name": "Action" },
+      { "name": "Biography" },
+      { "name": "History" },
+      { "name": "Adventure" },
+      { "name": "Fantasy" },
+      { "name": "Western" },
+      { "name": "Comedy" },
+      { "name": "Romance" },
+      { "name": "Sci-Fi" },
+      { "name": "Mystery" },
+      { "name": "Thriller" },
+      { "name": "Family" },
+      { "name": "War" },
+      { "name": "Animation" },
+      { "name": "Horror" },
+      { "name": "Music" },
+      { "name": "Film-Noir" },
+      { "name": "Musical" },
+      { "name": "Sport" }
+   ]
+}

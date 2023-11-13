@@ -1,0 +1,17 @@
+{
+   "name": "homeworksql",
+   "version": "1.0.0",
+   "description": "Homework de SQL. Consultas a una base de datos osbre películas.",
+   "main": "index.js",
+   "scripts": {
+      "start": "node ./index.js"
+   },
+   "author": "Henry",
+   "license": "ISC",
+   "dependencies": {
+      "dotenv": "^16.0.3",
+      "json-server": "^0.17.1",
+      "pg": "^8.8.0",
+      "sequelize": "^6.28.0"
+   }
+}
